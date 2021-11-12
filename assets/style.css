@@ -5,72 +5,15 @@
 
 body{
     font-family: 'Montserrat', sans-serif, serif;
-    background-image:url('https://www.goodcore.co.uk/blog/wp-content/uploads/2019/08/what-is-coding.png');
-    align-items: center;
-    justify-content: center;
     width: 100%;
 }
 
-.brand-logo {
-    font-family: 'Noto Sans Mono', monospace;;
-    margin-left:38vw;
-}
-
-#pswrd {
-    display: flex;
-    border-radius: 8px;
-    height: 45vh;
-    width: 39vw;
-    position: relative;
-    z-index: 1;
-}
-
-
-
-.pswurd {
-    display: flex;
-    position: absolute;
-    left: 500px;
-    top: 940px;
-    z-index: 2;
-    color: black;
-    font-style: italic;
-}
-
-.pswurd:hover {
-    font-size: 56px;
-}
-
-#travel {
-    display: flex;
-    border-radius: 8px;
-    height: 45vh;
-    position: relative;
-    z-index: 1;
-}
-
-.container {
-    justify-content: center;
-}
-
-main {
-    align-items: center;
-    justify-content: center;
-    margin:  auto;
-}
-
-.title {
-    display: flex;
-    position: absolute;
-    left: 510px;
-    bottom: 105px;
-    z-index: 2;
-    color: black;
-    font-style: italic;
-}
-
 .title:hover {
-    font-size: 56px;    
+    color: black;    
+}
+
+.booktlk {
+    padding-bottom: 5vh;
 }
 
 p1 {
